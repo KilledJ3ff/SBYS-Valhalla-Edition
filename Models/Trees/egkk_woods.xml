@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <path>egkk_woods.ac</path>
+
+      <animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>25000</max-m>
+	</animation>
+	<animation>
+  		<object-name>Plane.003</object-name>
+  		<enable-hot type="bool">false</enable-hot>
+ 	</animation>
+</PropertyList>

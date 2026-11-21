@@ -1,0 +1,13 @@
+# Backup files
+*.bak
+*.bak-*
+.bak-*/**
+
+# Editor / OS files
+*.kate-swp
+*.kra
+*~
+.DS_Store
+Thumbs.db
+*.swp
+Icon?
