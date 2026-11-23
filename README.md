@@ -8,7 +8,7 @@
 > **Valhalla Edition** — fork maintained under **Projeto Valhalla** (ala NEXUS).
 > Upstream: https://github.com/mherweg/SBYS-fg-CustomScenery
 
-![SBYS — Campo Fontenelle (Pirassununga/SP) aerial view](SBYS_aerial_view.jpeg)
+![SBYS — Campo Fontenelle (Pirassununga/SP) apron chart, landscape](SBYS_patio_horizontal.jpeg)
 
 ---
 
