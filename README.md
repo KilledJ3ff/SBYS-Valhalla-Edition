@@ -16,8 +16,8 @@
 
 **SBYS** is the military airfield of **Pirassununga, SP — Campo Fontenelle**, home of the **AFA (Academia da Força Aérea)** — the Brazilian Air Force Academy and one of the most important military aviation hubs in Brazil. It is where all FAB pilots receive their initial flight training:
 
-- **1º EIA (1º Esquadrão de Instrução Aérea)** — basic instruction
-- **2º EIA (2º Esquadrão de Instrução Aérea)** — advanced instruction
+- **1º EIA (1º Esquadrão de Instrução Aérea)** — advanced instruction
+- **2º EIA (2º Esquadrão de Instrução Aérea)** — basic instruction
 - **Esquadrilha da Fumaça (EDA)** — the FAB aerobatic demonstration squadron
 
 Runways **02L/20R, 02C/20C, 02R/20L** (asphalt, ~2.1 km), elevation **1.976 ft**, ARP `S21 59 04 W047 20 39`.
