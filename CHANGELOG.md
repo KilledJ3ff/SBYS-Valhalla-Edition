@@ -9,6 +9,9 @@
 - `Objects/` — scenery objects
 - README.md / ROADMAP.md / CHANGELOG.md / .gitignore (A-29N standard)
 
+### 2026-11-23
+- README: aerodrome summary (SBYS / Campo Fontenelle — AFA, 1º/2º EIA, Esquadrilha da Fumaça) + aerial image `SBYS_aerial_view.jpeg` shown on the repo homepage
+
 ## [Upstream] — mherweg (2022)
 - `Terrain/w050s30/w048s22/` custom tiles + `SBYS.dat` + LICENSE (GPL-3.0)
 
